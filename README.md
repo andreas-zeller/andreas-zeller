@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I am faculty at the 
     <a href="https://www.cispa.de" target=_blank>CISPA Helmholtz Center for Information Security</a> and professor for Software Engineering at 
     <a href="https://saarland-informatics-campus.de/en/" target=_blank>Saarland University</a>, both in Saarbrücken, Germany. 
-My main projects on GitHub are [The Fuzzing Book](https://www.fuzzingbook.org/) and [The Debugging Book](https://www.debuggingbook.org/).
+My main projects on GitHub are [The Fuzzing Book](https://www.fuzzingbook.org/), [The Debugging Book](https://www.debuggingbook.org/), and the [Fandango Fuzzer](https://fandango-fuzzer.github.io/).
 To learn more about me and get in touch, check out my homepage at [https://andreas-zeller.info](https://andreas-zeller.info).
